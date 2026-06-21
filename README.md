@@ -83,7 +83,6 @@ class RoboticsEngineer:
 
 ## 🤖 Featured Projects
 
-> *Replace these placeholders with your real repos!*
 
 | Project | Description | Stack |
 |--------|-------------|-------|
